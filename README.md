@@ -23,6 +23,3 @@ The solution uses Machine Learning, specifically Linear Regression, to analyze h
 
 ## Impact
 This project helps users understand water usage patterns, reduce wastage, and improve planning for sustainable water resource management.
-
-## Author
-Anand
